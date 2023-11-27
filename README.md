@@ -4,18 +4,20 @@
 
 <div align="center">
 
-``` Reach me ```
+<h3 align="center">Reach me</h3>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ines-g-calvo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<h3 align="center">Fun facts</h3>
 
-``` Fun facts ```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=inesgcalvo" alt="inesgcalvo" /></p>
 
-``` License ```
+
+<h3 align="center">License</h3>
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
