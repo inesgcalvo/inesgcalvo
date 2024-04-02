@@ -1,23 +1,39 @@
 <!README>
-<h1 align="center">Hi there 👋 I'm Inés
-<h3 align="center">👾 Data enthusiast 👾 & ⚡ Neuron electrician ⚡</h3></h1>
+<h1>
 
-<div align="center">
+```shell
+# Hi there! I'm Inés
+```
+👾
+</h1>
 
-<h3 align="center">Reach me</h3>
+```shell
+$ data scientist and neuroscientist
+```
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<!-- ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) -->
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ines-g-calvo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<h3 align="center">Fun facts</h3>
+```shell
+$ reach me
+```
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-g-calvo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](inglez@gmail.com)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=inesgcalvo" alt="inesgcalvo" /></p>
+<!-- [![inesgcalvo's github trophy](https://github-profile-trophy.vercel.app/?username=inesgcalvo&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
+<!-- [![inesgcalvo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgcalvo&theme=blue-green)](https://github.com/inesgcalvo) -->
 
-<h3 align="center">License</h3>
+```shell
+$ about my activity here
+```
+<!-- TO DO: add more details about me later -->
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![ProfileViews](https://komarev.com/ghpvc/?username=inesgcalvo)]()
+[![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
