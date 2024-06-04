@@ -34,7 +34,7 @@ $ reach me
 $ about my activity here
 ```
 <!-- TO DO: add more details about me later -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgcalvo&hide_progress=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgcalvo&hide_progress=false)]()
 
 
 [![ProfileViews](https://komarev.com/ghpvc/?username=inesgcalvo)]()
