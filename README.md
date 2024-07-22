@@ -2,7 +2,7 @@
 <h1>
 
 ```shell
-# Hi there! I'm Inés
+# Hi there!
 ```
 👾
 </h1>
