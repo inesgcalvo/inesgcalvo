@@ -1,4 +1,11 @@
 <!README>
+
+img {
+  cursor: default;
+  height: "32";
+  width: "32";
+}
+
 <h1>
 
 ```shell
@@ -13,7 +20,7 @@ $ data scientist and neuroscientist
 <div class="row">
   <div class="column">
     <p>CODE:</p>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python"/>
+    <img src="https://cdn.simpleicons.org/python/white" alt="python"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white" alt="pandas"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white" alt="numpy"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white" alt="scipy"/>
