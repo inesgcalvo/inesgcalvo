@@ -10,16 +10,20 @@
 ```shell
 $ data scientist and neuroscientist
 ```
-
-<img height="32" width="32" src="https://cdn.simpleicons.org/python">
-<img height="32" width="32" src="https://cdn.simpleicons.org/pandas">
-<img height="32" width="32" src="https://cdn.simpleicons.org/numpy">
-<img height="32" width="32" src="https://cdn.simpleicons.org/scipy">
-<img height="32" width="32" src="https://cdn.simpleicons.org/matplotlib">
-<img height="32" width="32" src="https://cdn.simpleicons.org/plotly">
-<img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn">
-<img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow">
-
+<div class="row">
+  <div class="column">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/pandas">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/numpy">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/scipy">
+  </div>
+  <div class="column">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/matplotlib">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/plotly">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow">
+  </div>
+</div>
 
 ```shell
 $ reach me
