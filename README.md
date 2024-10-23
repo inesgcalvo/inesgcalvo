@@ -12,6 +12,7 @@ $ data scientist and neuroscientist
 ```
 <div class="row">
   <div class="column">
+    <p text="CODE: "/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python"/>
     <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white">
     <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white">
