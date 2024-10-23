@@ -12,14 +12,14 @@ $ data scientist and neuroscientist
 ```
 <div class="row">
   <div class="column">
-    <p text="CODE: "/>
+    <p text="CODE: "/p>
     <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white"/>
   </div>
   <div class="column">
 
