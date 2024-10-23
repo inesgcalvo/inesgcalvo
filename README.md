@@ -8,7 +8,7 @@
 </h1>
 
 ```shell
-$ data scientist and neuroscientist
+$ Neuroscientist & Data Scientist
 ```
 <div class="row">
   <div class="column">
@@ -22,7 +22,6 @@ $ data scientist and neuroscientist
   </div>
 </div>
 
-
 ```shell
 $ reach me
 ```
@@ -30,13 +29,13 @@ $ reach me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-g-calvo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](inglez@gmail.com)
 
-![github trophy](https://github-profile-trophy.vercel.app/?username=inesgcalvo&row=1)]
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgcalvo&theme=blue-green)]
-
 ```shell
 $ about my activity here
 ```
-<!-- TO DO: add more details about me later -->
 [![ProfileViews](https://komarev.com/ghpvc/?username=inesgcalvo)]()
 [![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
+
+```python
+# ![github trophy](https://github-profile-trophy.vercel.app/?username=inesgcalvo&row=1)
+# ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgcalvo&theme=blue-green)
+```
