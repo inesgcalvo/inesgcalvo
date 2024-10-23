@@ -18,7 +18,7 @@ $ data scientist and neuroscientist
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://unpkg.com/simple-icons@v13/icons/#FF6F00.svg)
-<img height="32" width="32" src="https://cdn.simpleicons.org/#FF6F00" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/[#FF6F00]" />
 
 
 ```shell
