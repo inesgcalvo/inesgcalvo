@@ -12,19 +12,17 @@ $ data scientist and neuroscientist
 ```
 <div class="row">
   <div class="column">
-    <p text="CODE: "/p>
+    <p>CODE:</p>
     <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white"/>
-  </div>
-  <div class="column">
-
+    <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white" alt="pandas"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white" alt="numpy"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white" alt="scipy"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white" alt="plotly"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white" alt="scikit-learn"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white" alt="tensorflow"/>
   </div>
 </div>
+
 
 ```shell
 $ reach me
