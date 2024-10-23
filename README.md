@@ -30,9 +30,9 @@ $ reach me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ines-g-calvo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](inglez@gmail.com)
 
-<!-- [![inesgcalvo's github trophy](https://github-profile-trophy.vercel.app/?username=inesgcalvo&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+![inesgcalvo's github trophy](https://github-profile-trophy.vercel.app/?username=inesgcalvo&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- [![inesgcalvo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgcalvo&theme=blue-green)](https://github.com/inesgcalvo) -->
+![inesgcalvo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgcalvo&theme=blue-green)](https://github.com/inesgcalvo)
 
 ```shell
 $ about my activity here
