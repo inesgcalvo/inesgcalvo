@@ -13,15 +13,15 @@ $ data scientist and neuroscientist
 <div class="row">
   <div class="column">
     <img height="32" width="32" src="https://cdn.simpleicons.org/python/white" alt="python"/>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/pandas">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/numpy">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/scipy">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white">
   </div>
   <div class="column">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/matplotlib">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/plotly">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow">
+
   </div>
 </div>
 
