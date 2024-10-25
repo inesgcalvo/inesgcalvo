@@ -12,12 +12,21 @@ $ Neuroscientist & Data Scientist
 ```
 <div class="row">
   <div class="column">
+    <b>Python</b> 
     <img height="32" width="32" alt="python" cursor="default" src="https://cdn.simpleicons.org/python/white"/>
+    <b>&emsp;</b><b>pandas</b> 
     <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white" alt="pandas"/>
+    <b>&emsp;</b><b>NumPy</b> 
     <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white" alt="numpy"/>
+    <b>&emsp;</b><b>SciPy</b>
     <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white" alt="scipy"/>
+    <b>&emsp;</b><b>Plotly</b>
     <img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white" alt="plotly"/>
+    <b>&emsp;</b><b>Selenium</b>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/selenium/white" alt="selenium"/>
+    <b>&emsp;</b><b>scikit-learn</b>
     <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white" alt="scikit-learn"/>
+    <b>&emsp;</b><b>TensorFlow</b>
     <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white" alt="tensorflow"/>
   </div>
 </div>
