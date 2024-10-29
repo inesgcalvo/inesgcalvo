@@ -10,28 +10,22 @@
 ```shell
 $ Neuroscientist & Data Scientist
 ```
-<div class="row">
-  <div class="column">
-    <img height="32" width="32" alt="python" cursor="default" src="https://cdn.simpleicons.org/python/white"/>
-    <b>Python</b> <b>&emsp;</b>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/white" alt="pandas"/>
-    <b>pandas</b> <b>&emsp;</b>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/white" alt="numpy"/>
-    <b>NumPy</b> <b>&emsp;</b>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/white" alt="scipy"/>
-    <b>SciPy</b><b>&emsp;</b>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/plotly/white" alt="plotly"/>
-    <b>Plotly</b>
-  </div>
-  <div class="column">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/selenium/white" alt="selenium"/>
-    <b>Selenium</b><b>&emsp;</b>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/scikitlearn/white" alt="scikit-learn"/>
-    <b>scikit-learn</b><b>&emsp;</b>
-    <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/white" alt="tensorflow"/>
-    <b>TensorFlow</b>
-  </div>
-</div>
+<table border="0" cellspacing="8">
+  <tr>
+    <td><img height="32" width="32" alt="python" src="https://cdn.simpleicons.org/python/white"/> <b>Python</b></td>
+    <td><img height="32" width="32" alt="pandas" src="https://cdn.simpleicons.org/pandas/white"/> <b>pandas</b></td>
+    <td><img height="32" width="32" alt="numpy" src="https://cdn.simpleicons.org/numpy/white"/> <b>NumPy</b></td>
+    <td><img height="32" width="32" alt="scipy" src="https://cdn.simpleicons.org/scipy/white"/> <b>SciPy</b></td>
+    <td><img height="32" width="32" alt="plotly" src="https://cdn.simpleicons.org/plotly/white"/> <b>Plotly</b></td>
+  </tr>
+  <tr>
+    <td><img height="32" width="32" alt="selenium" src="https://cdn.simpleicons.org/selenium/white"/> <b>Selenium</b></td>
+    <td><img height="32" width="32" alt="scikit-learn" src="https://cdn.simpleicons.org/scikitlearn/white"/> <b>scikit-learn</b></td>
+    <td><img height="32" width="32" alt="tensorflow" src="https://cdn.simpleicons.org/tensorflow/white"/> <b>TensorFlow</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ```shell
 $ reach me
