@@ -12,7 +12,7 @@ $ Neuroscientist & Data Scientist
 ```
 <table border="0" cellspacing="8">
   <tr>
-    <td><img height="32" width="32" alt="python" src="https://cdn.simpleicons.org/python/white"/> <b>Python</b></td>
+    <td><img height="32" width="32" alt="python" src="https://cdn.simpleicons.org/python"/> <b>Python</b></td>
     <td><img height="32" width="32" alt="pandas" src="https://cdn.simpleicons.org/pandas/white"/> <b>pandas</b></td>
     <td><img height="32" width="32" alt="numpy" src="https://cdn.simpleicons.org/numpy/white"/> <b>NumPy</b></td>
     <td><img height="32" width="32" alt="scipy" src="https://cdn.simpleicons.org/scipy/white"/> <b>SciPy</b></td>
@@ -22,8 +22,8 @@ $ Neuroscientist & Data Scientist
     <td><img height="32" width="32" alt="selenium" src="https://cdn.simpleicons.org/selenium/white"/> <b>Selenium</b></td>
     <td><img height="32" width="32" alt="scikit-learn" src="https://cdn.simpleicons.org/scikitlearn/white"/> <b>scikit-learn</b></td>
     <td><img height="32" width="32" alt="tensorflow" src="https://cdn.simpleicons.org/tensorflow/white"/> <b>TensorFlow</b></td>
-    <td></td>
-    <td></td>
+    <td><img height="32" width="32" alt="tensorflow" src="https://cdn.simpleicons.org/linux"/> <b>linux</b></td>
+    <td><img height="32" width="32" alt="tensorflow" src="https://cdn.simpleicons.org/git"/> <b>git</b></td>
   </tr>
 </table>
 
