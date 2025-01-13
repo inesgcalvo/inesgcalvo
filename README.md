@@ -1,10 +1,6 @@
 <!README>
 <h1>
-
-```shell
-# Hi there!
-```
-👾
+👾 hi there !
 </h1>
 
 ```shell
