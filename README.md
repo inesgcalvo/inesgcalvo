@@ -15,7 +15,7 @@ $ Neuroscientist & Data Scientist
     <td><img height="32" width="32" alt="plotly" src="https://cdn.simpleicons.org/plotly/white"/> <b>Plotly</b></td>
   </tr>
   <tr>
-    <td><img height="32" width="32" alt="selenium" src="https://cdn.simpleicons.org/selenium/white"/> <b>Selenium</b></td>
+    <td><img height="32" width="32" alt="selenium" src="https://cdn.simpleicons.org/selenium"/> <b>Selenium</b></td>
     <td><img height="32" width="32" alt="scikit-learn" src="https://cdn.simpleicons.org/scikitlearn/white"/> <b>scikit-learn</b></td>
     <td><img height="32" width="32" alt="tensorflow" src="https://cdn.simpleicons.org/tensorflow/white"/> <b>TensorFlow</b></td>
     <td><img height="32" width="32" alt="tensorflow" src="https://cdn.simpleicons.org/linux"/> <b>linux</b></td>
