@@ -8,7 +8,7 @@ $ Neuroscientist & Data Scientist
 ```
 <table border="0" cellspacing="8">
   <tr>
-    <td><img height="32" width="32" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/> <b>Python</b></td>
+    <td><img height="35" width="35" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/> <b>Python</b></td>
     <td><img height="32" width="32" alt="pandas" src="https://cdn.simpleicons.org/pandas/white"/> <b>pandas</b></td>
     <td><img height="32" width="32" alt="numpy" src="https://cdn.simpleicons.org/numpy/FFFFFF"/> <b>NumPy</b></td>
     <td><img height="32" width="32" alt="scipy" src="https://cdn.simpleicons.org/scipy/FFFFFF"/> <b>SciPy</b></td>
