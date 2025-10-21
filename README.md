@@ -35,8 +35,3 @@ $ about my activity here
 ```
 [![ProfileViews](https://komarev.com/ghpvc/?username=inesgcalvo)]()
 [![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
-
-```python
-# ![github trophy](https://github-profile-trophy.vercel.app/?username=inesgcalvo&row=1)
-# ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inesgcalvo&theme=blue-green)
-```
